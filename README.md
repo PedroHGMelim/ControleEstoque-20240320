@@ -1,5 +1,9 @@
 # ControleEstoque-20240320
 
+# Vídeo da API
+
+https://youtu.be/6bTZMlaq3oU?si=qWMgBINrnFoENN1t
+
 # Como baixar e executar o projeto
 
 ## 1 - Dependências
