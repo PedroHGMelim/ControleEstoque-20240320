@@ -2,7 +2,7 @@
 
 # Vídeo da API
 
-https://youtu.be/6bTZMlaq3oU?si=qWMgBINrnFoENN1t
+https://youtu.be/6bTZMIaq3oU?si=qWMgBINrnFoENN1t
 
 # Como baixar e executar o projeto
 
