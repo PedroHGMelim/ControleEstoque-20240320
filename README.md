@@ -30,36 +30,36 @@ Então a api começara a funcionar em "http://localhost:8080"
 
 ### POST
 
-EndPoints: *http://localhost:8080/api/clientes*
-           *http://localhost:8080/api/fornecedores*
-           *http://localhost:8080/api/categorias*
-           *http://localhost:8080/api/produtos*
-           *http://localhost:8080/api/vendas*
+EndPoints: "http://localhost:8080/api/clientes"
+           "http://localhost:8080/api/fornecedores"
+           "http://localhost:8080/api/categorias"
+           "http://localhost:8080/api/produtos"
+           "http://localhost:8080/api/vendas"
 
 ### GET
 
-EndPoints: *http://localhost:8080/api/clientes*
-           *http://localhost:8080/api/clientes/ID*
-           *http://localhost:8080/api/fornecedores*
-           *http://localhost:8080/api/fornecedores/ID*
-           *http://localhost:8080/api/categorias*
-           *http://localhost:8080/api/categorias/ID*
-           *http://localhost:8080/api/produtos*
-           *http://localhost:8080/api/produtos/ID*
-           *http://localhost:8080/api/vendas*
-           *http://localhost:8080/api/vendas/ID*
+EndPoints: "http://localhost:8080/api/clientes"
+           "http://localhost:8080/api/clientes/ID"
+           "http://localhost:8080/api/fornecedores"
+           "http://localhost:8080/api/fornecedores/ID"
+           "http://localhost:8080/api/categorias"
+           "http://localhost:8080/api/categorias/ID"
+           "http://localhost:8080/api/produtos"
+           "http://localhost:8080/api/produtos/ID"
+           "http://localhost:8080/api/vendas"
+           "http://localhost:8080/api/vendas/ID"
 
 ### PUT
 
-EndPoints: *http://localhost:8080/api/clientes/ID*
-           *http://localhost:8080/api/fornecedores/ID*
-           *http://localhost:8080/api/categorias/ID*
-           *http://localhost:8080/api/produtos/ID*
+EndPoints: "http://localhost:8080/api/clientes/ID"
+           "http://localhost:8080/api/fornecedores/ID"
+           "http://localhost:8080/api/categorias/ID"
+           "http://localhost:8080/api/produtos/ID"
 
 ### DELETE
 
-EndPoints: *http://localhost:8080/api/clientes/ID*
-           *http://localhost:8080/api/fornecedores/ID*
-           *http://localhost:8080/api/categorias/ID*
-           *http://localhost:8080/api/produtos/ID*
-           *http://localhost:8080/api/vendas/ID*
+EndPoints: "http://localhost:8080/api/clientes/ID"
+           "http://localhost:8080/api/fornecedores/ID"
+           "http://localhost:8080/api/categorias/ID"
+           "http://localhost:8080/api/produtos/ID"
+           "http://localhost:8080/api/vendas/ID"
